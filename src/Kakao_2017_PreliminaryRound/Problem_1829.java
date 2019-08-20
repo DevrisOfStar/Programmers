@@ -5,6 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Problem_1829 {
+	/* 문제제목 : 카카오프렌즈 컬러링북 */
 	public static int[] dx = { 0, 1, 0, -1 };
 	public static int[] dy = { 1, 0, -1, 0 };
 
