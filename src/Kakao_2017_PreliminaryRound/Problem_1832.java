@@ -1,6 +1,7 @@
 package Kakao_2017_PreliminaryRound;
 
 public class Problem_1832 {
+	/* 문제제목 : 보행자 천국 */
 	static int MOD = 20170805;
 
 	public static int solution(int m, int n, int[][] cityMap) {
